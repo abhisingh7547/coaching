@@ -1,0 +1,27 @@
+name 
+Mothres name
+Fathers name
+contact
+Email
+Education
+Date of Birth
+Gender
+Address
+Password
+
+user
+1. contact
+2. Email
+3. Password
+4. name
+
+
+student
+1. id 
+2. User_id
+3. name
+4. Mothres name
+5. Fathers name
+6. Education
+7. dob
+8. Gender
